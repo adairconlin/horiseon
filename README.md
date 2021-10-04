@@ -6,6 +6,4 @@ Keeping this in mind, I applied a variety of HTML semantics in replacement of se
 
 ### You can view my project [here](https://adairconlin.art/horiseon/)
 
-```md
 ![horiseon-website](assets/images/webpage-screenshot.PNG)
-```
